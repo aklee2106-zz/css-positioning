@@ -1,0 +1,20 @@
+div {
+  height: 50px;
+  width: 300px;
+  margin: 0 0 10px 0;
+}
+#num1 {
+  background-color: #437878;  
+} 
+#num2 {
+  background-color: #43FF00;
+}
+#num3 {
+  background-color: #D400A7;
+}
+#num4 {
+  background-color: #0043FF;
+}
+#container {
+  height: 100%;
+}

@@ -1,0 +1,28 @@
+div {
+  height: 50px;
+  width: 300px;
+  margin: 0 0 10px 0;
+}
+#num1 {
+  background-color: #437878;  
+} 
+#num2 {
+  background-color: #43FF00;
+  height: 300px;
+  width: 200px;
+  float: right;
+}
+#num3 {
+  background-color: #D400A7;
+  width: 70px;
+  height: 300px;
+  float: left;
+  
+}
+#num4 {
+  background-color: #0043FF;
+  display: inline-block;
+}
+#container {
+  height: 100%;
+}
